@@ -1,0 +1,20 @@
+.datepicker {
+    display: none;
+    position: absolute;
+    margin-left: 40px;
+    padding: 5px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    z-index: 999;
+  }
+
+  .datepicker td {
+    cursor: pointer;
+    padding: 5px;
+    text-align: center;
+  }
+
+
+  .datepicker td:hover {
+    background-color: #eee;
+  }
